@@ -15,7 +15,7 @@
   </ul>
   <br>
  <li>Main Tasks:</li>
-  <ul>
+  <ol>
    <li>Rozgrywka odbywa się w pierwszej osobie.</li>
    <li>W edytorze, jest możliwość dodania na scenę aktora "BP_Container".</li>
    <li>W okienku szczegółów aktora "BP_Container" jest możliwość ustawienia zmiennej 
@@ -41,5 +41,5 @@
    <li>Po dojściu aktora "BP_Minion" do aktora "BP_Container" w logu wyświetlana jest
        informacja o tym jaki minion "dostarczył" jaki przedmiot, a minion zatrzymuje się i
        pozostaje w miejscu czekając na dalsze rozkazy. </li>
-  </ul>
+  </ol>
 </ul>
