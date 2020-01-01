@@ -15,7 +15,7 @@
   </ul>
   <br>
  <li>Main Tasks:</li>
-  <ol>
+  <ol type="1">
    <li>Rozgrywka odbywa się w pierwszej osobie.</li>
    <li>W edytorze, jest możliwość dodania na scenę aktora "BP_Container".</li>
    <li>W okienku szczegółów aktora "BP_Container" jest możliwość ustawienia zmiennej 
